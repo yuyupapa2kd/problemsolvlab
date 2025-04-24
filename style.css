@@ -65,3 +65,7 @@ footer {
   padding: 1em;
   line-height: 1.6;
 }
+
+.align-left {
+  text-align: left;
+}
